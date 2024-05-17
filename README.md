@@ -4,7 +4,7 @@ I'm craete My Voting System
 
 ## 🔗 Demo
 
-url: https://food-hotel-sameer.netlify.app/
+url: https://voting-system-web.netlify.app/
 
 ## 🛠 Installation
 
